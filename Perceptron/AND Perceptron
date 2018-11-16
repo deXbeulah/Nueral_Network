@@ -2,6 +2,7 @@
 What are the weights and bias for the AND perceptron?
 Set the weights (weight1, weight2) and bias (bias) to values that will correctly determine the AND operation as shown above.
 More than one set of values will work!
+Using the equation "y =(weight1*test) + (weight2*grade) + bias" and use the condition if y < 0 (False), y => 0 (True)
 """
 import pandas as pd
 
